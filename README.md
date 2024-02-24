@@ -3,15 +3,10 @@
 <p align=center>Creative Developer • Computer Science Graduate • DOST Scholar</p>
 <p align=center><a  href="https://alejah.vercel.app/">Check out my web portfolio</a></p>
 
-<hr>
-
-
 ## &#128187; Projects
 <p>•<a href="https://github.com/Aljhsrdnl/trivia-quiz"> Trivia Quiz</a> - Trivia Quiz is an API-based web application game. Players can select from 17 different categories of questions. Players will attempt to choose the correct answer among the four choices. They will be answering 10 questions for each round of the quiz.</p>
 <p>•<a href="https://amot2.vercel.app/"> Amot</a> - Amot is a web-based contribution application built for friends and families who like to preserve the meaningful memories they create while out eating or partying. The app will generate a receipt of how much each and everyone has contributed and bought.</p>
 <p>•<a href="https://github.com/Aljhsrdnl/grades_viewer"> Grades Viewer</a> - Grades Viewer is an online tool for Trinidad V. Canja- Sta. Teresa National High School students to track their academic progress. With this app, students can monitor grades, identify areas for improvement, and stay on top of their performance.</p>
-
-<hr>
 
 ## 🤝 Let's Connect
 
